@@ -1,4 +1,4 @@
- Hi, I'm prince sheji varghese👋
+ Hi, I'm prince sheji varghese
 
 -  Student: B.Tech CS (AI Specialization)
 -  Tech Interests:Coding & Artificial Intelligence
